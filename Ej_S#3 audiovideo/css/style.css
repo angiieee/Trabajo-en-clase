@@ -1,0 +1,25 @@
+body {
+	background-color: gray;
+}
+h1 {
+	font-family: sans-serif;
+	text-align: center;
+	position: inline;
+	font-size: 20pt;
+	color: purple;
+	
+}
+
+.effects a img {
+	z-index: -1;
+	position: inline;
+	margin-left: 650px;
+	margin-top: -40px;
+	text-indent: -9999px;
+}
+
+.video {
+	position: relative;
+}
+
+}

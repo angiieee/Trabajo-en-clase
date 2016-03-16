@@ -1,0 +1,72 @@
+body {
+	background-color: #3b3196;
+}
+
+.container {
+	background-color: #3b3196;
+	width: 800px;
+	margin: 10px auto;
+	margin-bottom: 20px;
+}
+
+.container .one {
+	float: right;
+    width: 250;
+    margin-top: 30px;
+    margin-left: 100px;
+    position: absolute;
+}
+
+.container .two {
+	float: right;
+	width: 250px;
+	position: relative;
+	margin-right: 100px;
+}
+.container .three {
+	float: left;
+    width: 250;
+    margin-top: 550px;
+    margin-left: 90px;
+    margin-bottom: 20px;
+    position: absolute;
+}
+.container .four {
+	float: right;
+	width: 250px;
+	margin-top: 20px;
+	margin-right: 100px;
+	position: relative;
+}
+
+h2 {
+	color: #e6e4f6;
+	font-family: Reswysokr;
+	text-align: center; 
+}
+
+p {
+	font-family: Reswysokr;
+	color: white;
+	width: 250px;
+	text-align: center; 
+	font-size: 10pt;
+}
+
+.one img {
+	position: center;
+	padding-left: 30px;
+	
+}
+.two img {
+    padding-left: 30px;
+}
+
+.three img {
+    position: center;
+    padding-left: 30px;
+}
+.four img {
+	position: center;
+	padding-left: 30px;
+}
